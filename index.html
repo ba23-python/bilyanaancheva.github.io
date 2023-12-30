@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Bilyana`s GitHub Portfolio</title>
+        <link rel="stylesheet" href="style.css"/>
+        <link rel="stylesheet" href="mediaquerries.css"/>
+    </head>
+    <body>
+        <nav id="desktop-nav">
+            <div class="logo">Bilyana Ancheva</div>
+            <div> 
+                <ul class="nav-links">
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#experience">Experience</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </div>
+        </nav>
+        <nav id="hamburger-nav"> 
+            <div class="logo">Bilyana Ancheva</div>
+            <div class="hamburger-menu">
+                <div class="hamburger-icon"onclick="toggleMenu()">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <div class="menu-links">
+                    <li><a href="#about"onclick="toggleMenu()">About</a></li>
+                    <li><a href="#experience"onclick="toggleMenu()">Experience</a></li>
+                    <li><a href="#projects"onclick="toggleMenu()">Projects</a></li>
+                    <li><a href="#contact"onclick="toggleMenu()">Contact</a></li>
+
+                </div>
+            </div>
+        </nav>
+        <section id="profile">
+            <div class="section__pic-container">
+                <img src="./Assets/profile-pic-Billaptop.png" alt="Bilyana Ancheva Profile picture"/>
+            </div>
+            <div class="section__text">
+                <p class="section__text__p1">Hello, I´m</p>
+                <h1 class="title">Bilyana Ancheva</h1>
+                <p class="section__text__p2">Responsive HTML Email Developer</p> <br>
+                <div class="btn-container">
+                    <button class="btn btn-color-2" 
+                    onclick="window.open('./assets/CV-Bilyana.pdf')">
+                    Download CV
+                    </button>
+                    <button class="btn btn-color-1" 
+                    onclick="location.href='./#contact'">
+                    Contact Info
+                    </button>
+                </div>
+                <div id="socials-container">
+                    <img src="./Assets/linkedin.png" alt="My Upwork profile"
+                    class="icon" onclick="location.href='https://www.upwork.com/freelancers/~01fa053bccabc9ca78'"
+                    />
+                  
+                    <img src="./Assets/github.png" alt="My GitHub profile"
+                    class="icon" onclick="location.href='https://www.upwork.com/freelancers/~01fa053bccabc9ca78'"
+                    />
+                </div>
+                                    
+               
+            </div>
+            
+        </section>
+        
+        <!---Section About Me-->
+        <section id="about">
+            <p class="section__text_p1">Get to Know More</p>
+            <h1 class="title">About Me</h1>
+            <div class="section-container">
+                <div class="section__pic-container">
+                    <img src="./Assets/about-Bil.png" 
+                    alt="Bilyana Profile picture" width="500"
+                    class="about-pic"
+                    />
+                </div>
+                <div class="about-details-container">
+                    <div class="about-containers">
+                        <div class="details-container">
+                            <img 
+                                src="./Assets/experience.png" 
+                                alt="Experience icon"
+                                class="icon"
+                            />
+                            <h3>Experience</h3>
+                            <br>
+                            <p>1,5 yrs <br> HTML&CSS Email Development</p>
+                            <br>
+                            <p>2 yrs <br> Salesforce Marketing Cloud Developer</p>
+                            <p>SQL-AMPscript-SSJS-HTML-CSS</p>
+                            <br>
+                        </div>
+                        <div class="details-container">
+                                <img src="./Assets/education.png" alt="Education icon"
+                                    class="icon"
+                                />
+                                <h3>Certifications</h3>
+                                <br>
+                                <p>Salesforce Marketing Cloud Email Specialist</p>
+                                <br> 
+                                <p>Salesforce Marketing Cloud Administrator</p>
+                                <br>
+                                <p>Salesforce CRM <br> Associate</p>
+                        </div>
+                    </div>
+                        
+                    <div class="text-container">
+                            <p>
+                                I am an HTML&CSS Responsive Email Templates Developer with knowledge of Salesforce Marketing Cloud. <br> 
+                                Hire me to design your HTML Email templates and test them for proper rendering on Tablet. PC, mobile <br> and the Email Clients-Microsoft Outlook, Gmail, Yahoo etc.
+                            </p>
+                    </div>
+                </div>
+            </div>
+            <img src="./assets/arrow.png" alt="arrow icon" class="icon arrow"
+            onclick="location.href='.#experience'"/>
+                
+        </section>
+        <!---New Section for Experience-->
+        <section id="experience">
+            <p class="section__text_p1">Explore My</p>
+            <h1 class="title">Experience</h1>
+            <div class="experience-details-container">
+                <div class="about-containers">
+                    <div class="experience-containers">
+                    <div class="details-container">
+                        <!---New SubSection for Experience-->
+                        <h2 class="experience-sub-title"> Frontend Development</h2>
+                        <div class="article-container">
+                            <article>
+                                <img src="./Assets/checkmark.png" alt="Experience icon"
+                                class="icon"
+                                />
+                                <div>
+                                    <h3>HTML</h3>
+                                    <p>Experienced</p>
+                                </div>
+                            </article>
+                            <article>
+                                <img src="./Assets/checkmark.png" alt="Experience icon"
+                                class="icon"
+                                />
+                                <div>
+                                    <h3>CSS</h3>
+                                    <p>Intermediate</p>
+                                </div>
+                            </article>
+                            <article>
+                                <img src="./Assets/checkmark.png" alt="Experience icon"
+                                class="icon"
+                                />
+                                <div>
+                                    <h3>JavaScript</h3>
+                                    <p>Intermediate</p>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="experience-details-container">
+                <div class="about-containers">
+                    <div class="experience-containers">
+                    <div class="details-container">
+                        <!---New SubSection for Experience-->
+                        <h2 class="experience-sub-title"> SFMC Development</h2>
+                        <div class="article-container">
+                            <article>
+                                <img src="./Assets/checkmark.png" alt="Experience icon"
+                                class="icon"
+                                />
+                                <div>
+                                    <h3>AMPSript</h3>
+                                    <p>Experienced</p>
+                                </div>
+                            </article>
+                            <article>
+                                <img src="./Assets/checkmark.png" alt="Experience icon"
+                                class="icon"
+                                />
+                                <div>
+                                    <h3>SQL</h3>
+                                    <p>Intermediate</p>
+                                </div>
+                            </article>
+                            <article>
+                                <img src="./Assets/checkmark.png" alt="Experience icon"
+                                class="icon"
+                                />
+                                <div>
+                                    <h3>SSJS</h3>
+                                    <p>Intermediate</p>
+                                </div>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                 
+            
+            <img src="./assets/arrow.png" alt="arrow icon" class="icon arrow"
+            onclick="location.href='.#projects'"/>
+        </section>
+        <section id="projects">
+            <p class="section__text_p1">Browse My</p>
+            <h1 class="title">Projects</h1>
+            <div class="experience-details-container">
+                <div class="about-containers">
+                    <div class="details-container color-container">
+                    <div class="article-container">
+                        <img src="./assets/Project-3-3.PNG" alt="Project 1"
+                        class="project-img"
+                        />
+                    </div>
+                    <h2 class="experience-sub-title project-title">Commercial Decor Email</h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/ba23-python/bilyanaancheva.github.io'">
+                            GitHub
+                        </button>
+                        <button class="btn btn-color-2 project-btn" onclick="window.open('./assets/GmailTest-BilydecorEmail.png')">
+                            Live Demo
+                        </button>
+                        <button class="btn btn-color-2 project-btn" onclick="location.href='https://codepen.io/Bilyana-ba/pen/vYbqjeB'">
+                            CodePen
+                        </button>
+                    </div>
+                    </div>
+                    <div class="details-container color-container">
+                    <div class="article-container">
+                        <img src="./assets/project-2-2.png" alt="Project 2"
+                        class="project-img"
+                        />
+                    </div>
+                    <h2 class="experience-sub-title project-title">Commercial Apparel Email</h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/ba23-python/bilyanaancheva.github.io'">
+                            GitHub
+                        </button>
+                        <button class="btn btn-color-2 project-btn" onclick="window.open('./assets/GmailTest-Apparel.png')">
+                            Live Demo
+                        </button>
+                        <button class="btn btn-color-2 project-btn" onclick="location.href='https://codepen.io/Bilyana-ba/pen/gOqNqzX'">
+                            CodePen
+                        </button>
+                    </div>
+                    </div>
+                    <div class="details-container color-container">
+                    <div class="article-container">
+                        <img src="./assets/project-1-1.png" alt="Project 3"
+                        class="project-img"
+                        />
+                    </div>
+                    <h2 class="experience-sub-title project-title">Transactional Email</h2>
+                    <div class="btn-container">
+                        <button class="btn btn-color-2 project-btn" onclick="location.href='https://github.com/ba23-python/bilyanaancheva.github.io'">
+                            GitHub
+                        </button>
+                        <button class="btn btn-color-2 project-btn" onclick="window.open('./assets/GmailTest-Transactional.png')">
+                            Live Demo
+                        </button>
+                        <button class="btn btn-color-2 project-btn" onclick="location.href='https://codepen.io/Bilyana-ba/pen/NWoZJJq'">
+                            CodePen
+                        </button>
+                    </div>
+                    </div>
+            </div>
+            </div>
+            <img src="./assets/arrow.png" alt="arrow icon" class="icon arrow"
+            onclick="location.href='.#projects'"/>
+        </section>
+        <!---Contact Section-->
+        <section id="contact">
+            <p class="section__text_p1">Get in Touch</p>
+            <h1 class="title">Contact Me</h1>
+            <div class="contact-info-upper-container">
+                <div class="contact-info-container">
+                    <img src="./Assets/email.png" alt="Email icon" class="icon contact-icon"
+                    />
+                    <p> <a href="mailto:bela.energetica@gmail.com">myemail@gmail.com</a></p>
+                </div>
+            <div class="contact-info-upper-container">
+                <div class="contact-info-container">
+                    <img src="./Assets/github.png" alt="Github icon" class="icon contact-icon"
+                    />
+                    <p> <a href="https://github.com/ba23-python/bilyanaancheva.github.io">My GitHub</a></p>
+                </div>
+            </div>
+            <div class="contact-info-upper-container">
+                <div class="contact-info-container">
+                    <img src="./Assets/linkedin.png" alt="Linkedin icon" class="icon contact-icon"
+                    />
+                    <p> <a href="https://www.linkedin.com/in/bilyana-ancheva/">My Linkedin</a></p>
+                </div>
+            </div>
+        </section>
+        <img src="./assets/arrow.png" alt="arrow icon" 
+        class="icon arrow"
+        onclick="location.href='.#contact'"/>
+        <script src="script.js"></script>
+    </body>
+</html>
+
