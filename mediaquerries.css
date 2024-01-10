@@ -89,11 +89,21 @@
     .nav-links-container {
         margin-top: 3rem; /* Adjust the margin as needed */
     }
+
+      /* About me image */
     .section__pic-container {
       width: auto;
       height: 46vw;
-      justify-content: center;
+      justify-content: center; 
+        border-radius: 50%; /* Maintain circular shape */
+        overflow: hidden; /* Ensure content doesn't exceed circular boundaries */
     }
+    
+    .section__pic-container {
+        height: 200px; /* Adjust the size for smaller screens if needed */
+        width: 200px; /* Adjust the size for smaller screens if needed */
+    }  
+    
     .section__text__p2 {
       font-size: 1.25rem;
     }
