@@ -151,9 +151,11 @@ section {
 }
 .section__pic-container {
     display: flex;
-    height: 400px;
-    width: 400px;
-    margin: auto 0;
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    border-radius: 50%;
+    overflow: hidden;
 }
 .section__text {
     align-self: center;
