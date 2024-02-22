@@ -2,7 +2,7 @@
 and I would like to welcome you to my GitHub Portfolio.
 
 ### If interested to work with me, 
-contact me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
+message me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
 ![My Landing page](Assets/My-Landing-screenshot1.PNG)
 ![My Landing page](Assets/My-Landing-screenshot2.PNG)
