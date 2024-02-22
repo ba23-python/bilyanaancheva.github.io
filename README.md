@@ -1,2 +1,1 @@
-# I am building my GitHub Email development Portfolio
-HTML & CSS Responsive Email development Portfolio of Bilyana Ancheva# 
+# I am Bilyana Ancheva and I would like to welcome you to my GitHub Portfolio# 
