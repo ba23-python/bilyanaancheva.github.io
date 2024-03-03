@@ -28,15 +28,30 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 ## Projects
 - #### Salesforce Marketing Cloud
 1. [Hotel chain room reservation email marketing journey with Salesforce Marketing Cloud ](https://docs.google.com/document/d/1HgVFumFAqz3yVIDk9XMr3QdJu9MnMYAW87Um05sJoXw/edit?usp=sharing)
-   -Areas Implied:
-- Rest API - Fire Entry Event as Entry Source in Journey Builder
-- Journey Builder
-- Relational data model
--Lookup
-- Date transformations
-- Currency transformations
-- Cloudpage
-- SQL
+   Areas Implied
+API usage, Journey Builder, Relational data model, Lookup, Date and Currency transformations, Cloudpage, SQL.
+Summary
+MOA Hotels, a global hotel company, markets its properties in specific countries. The reservation process involves API calls, dynamic multilingual emails, and CRM tasks. Unconfirmed reservations trigger tasks or emails based on time remaining. Canceled reservations are checked daily. Automated tracking of communications is performed, and reservation statistics are compiled for the marketing team.
+
+MOA Hotels Presence and Market
+MOA Hotels operates globally but markets exclusively in certain countries: France, Portugal, Spain, Canada, USA, Germany, United Kingdom, Russia.
+Reservation Process and Email Communication
+API calls capture reservation and user data on the website.
+Email communication includes a dynamic initial email, language and currency conversion, and a "confirm reservation" link.
+In case of a bounced email, a task in Salesforce CRM is created.
+Unconfirmed Reservations Handling
+Tasks or emails are triggered based on the time remaining for unconfirmed reservations.
+If less than one month remains, a Salesforce CRM task is created.
+If more than one month remains, a periodic email with a cloudpage link for date modification is sent until the reservation is confirmed.
+Less than 48 hours before the stay, a reminder email is sent with additional experiences.
+Email Timing and Cancellation Checks
+Emails are sent at specific time slots, with the first one at 9:00 in the morning.
+Reservations are checked for cancellation daily at 02:00 on Salesforce Marketing Cloud FTP.
+Automated Tracking and Data Export
+Tracking of communication shipments, openings, and clicks is automated.
+Data from the previous day's shipments is exported to Marketing Cloud SFTP at 8:00 in the morning daily.
+Reservation Statistics Automation
+An automation is implemented to load total reservations, valid reservations, and canceled reservations into a table for daily consultation by the marketing team.
 
 #### Salesforce Sales and Service Cloud
 Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization
