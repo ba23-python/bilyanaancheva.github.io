@@ -32,7 +32,7 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 This description outlines the reservation and communication system implemented by MOA Hotels, a global hotel company. The system involves targeted marketing, multilingual emails, timely reminders, and robust automation. This README provides an overview of the key functionalities and processes.
 
 ## Areas Implied
-Rest API usage and Testing with Postman, Journey Builder, Relational data model, Lookup, Date and Currency transformations, Cloudpage, SQL.
+Rest API usage and Testing with Postman, Journey Builder, Relational data model, SQL, AMPSCRIPT Lookup, Date and Currency transformations, Cloudpage, SQL.
 
 ## MOA Hotels Presence and Market
 - MOA Hotels operates globally but markets exclusively in certain countries: France, Portugal, Spain, Canada, USA, Germany, United Kingdom, Russia.
