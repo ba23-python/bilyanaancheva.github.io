@@ -62,6 +62,8 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 
 ## Project 2: Salesforce Sales and Service Cloud
 Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization
+
+## Project 3: My Personal Frontend landing page development (https://github.com/ba23-python/bilyanaancheva.github.io)
    
 ![My Landing page](Assets/My-Landing-screenshot1.PNG)
 ![My Landing page](Assets/My-Landing-screenshot2.PNG)
