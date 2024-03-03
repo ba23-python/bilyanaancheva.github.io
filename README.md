@@ -39,7 +39,7 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 - SQL
 
 #### Salesforce Sales and Service Cloud
-3. [Vet Clinic Sales and Service Cloud setting up and custom objects personalization]
+3. Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization
    
 ![My Landing page](Assets/My-Landing-screenshot1.PNG)
 ![My Landing page](Assets/My-Landing-screenshot2.PNG)
