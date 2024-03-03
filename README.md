@@ -8,7 +8,7 @@ and Junior Full Stack Developer with advanced level of English.
 I will bring to your company invaluable soft skills because I've worked in Agile and Scrum environments and come from the B2B corporate world.
 
 I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript,
-part of my job as Junior SFMC Developer at Cloud Coachers.
+part of my job as Junior SFMC Developer at the Salesforce partner-Cloud Coachers.
 
 ### If you are interested to work with me, 
 the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
