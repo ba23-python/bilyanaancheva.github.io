@@ -7,8 +7,8 @@ I am a Junior Salesforce Marketing Cloud Developer (3x certified)
 and Junior Full Stack Developer with advanced level of English.
 I will bring to your company invaluable soft skills because I come from the B2B corporate world.
 
-I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript 
-as part of my job as Junior SFMC Developer at Cloud Coachers.
+I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript,
+part of my job as Junior SFMC Developer at Cloud Coachers.
 
 ### If you are interested to work with me, 
 the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
