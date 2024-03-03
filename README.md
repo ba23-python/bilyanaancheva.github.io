@@ -26,9 +26,9 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 - Containerization Systems: Docker
 
 ## Projects
-- #### Salesforce Marketing Cloud
+## Salesforce Marketing Cloud
 1. [Hotel chain room reservation email marketing journey with Salesforce Marketing Cloud ](https://docs.google.com/document/d/1HgVFumFAqz3yVIDk9XMr3QdJu9MnMYAW87Um05sJoXw/edit?usp=sharing)
-   ## Summary
+## Summary
 This description outlines the reservation and communication system implemented by MOA Hotels, a global hotel company. The system involves targeted marketing, multilingual emails, timely reminders, and robust automation. This README provides an overview of the key functionalities and processes.
 
 ## Areas Implied
@@ -60,7 +60,7 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 - An automation is implemented to load total reservations, valid reservations, and canceled reservations into a table for daily consultation by the marketing team.
 
 
-#### Salesforce Sales and Service Cloud
+## Project 2: Salesforce Sales and Service Cloud
 Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization
    
 ![My Landing page](Assets/My-Landing-screenshot1.PNG)
