@@ -24,6 +24,7 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 - IDE/Code Editors: Visual Studio Code, Codepen, Repl.it
 - API Testing Tools: Postman
 - Containerization Systems: Docker
+- Salesforce Markerting Cloud programming languages: AMPSCRIPT, SSJS, SQL quieries, GTL
 
 ## Projects
 ## Salesforce Marketing Cloud
