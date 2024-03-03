@@ -25,7 +25,7 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 - API Testing Tools: Postman
 - Containerization Systems: Docker
 
-- ## Projects
+## Projects
 - #### Salesforce Marketing Cloud
 1. [Hotel chain room reservation email marketing journey with Salesforce Marketing Cloud ](https://docs.google.com/document/d/1HgVFumFAqz3yVIDk9XMr3QdJu9MnMYAW87Um05sJoXw/edit?usp=sharing)
    -Areas Implied:
@@ -39,7 +39,7 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 - SQL
 
 #### Salesforce Sales and Service Cloud
-3. Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization
+Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization
    
 ![My Landing page](Assets/My-Landing-screenshot1.PNG)
 ![My Landing page](Assets/My-Landing-screenshot2.PNG)
