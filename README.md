@@ -81,11 +81,11 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 
 ## Project 4: [Responsive Forms and Registrations](https://github.com/ba23-python/UpgradeHub/tree/master/Responsive%20Forms%20and%20Registrations)
 
-## [My English language skills are advanced. You can listen how I speak in English on the Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
+## I am fluent in English. [You can listen how I speak in English on the Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
 
 ### If you are interested to work with me, 
-the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
+the most reliable option is to contact me through Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
-### Email address: info@bilyanaancheva.com
+Email address: info@bilyanaancheva.com
 
 
