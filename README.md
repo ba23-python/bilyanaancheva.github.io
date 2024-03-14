@@ -34,7 +34,7 @@ Email address: info@bilyanaancheva.com
 
 ## Projects
 ## Salesforce Marketing Cloud
-1. [Hotel chain room reservation email marketing journey with Salesforce Marketing Cloud ](https://docs.google.com/document/d/1HgVFumFAqz3yVIDk9XMr3QdJu9MnMYAW87Um05sJoXw/edit?usp=sharing)
+1. PDF attached [Hotel chain room reservation email marketing journey with Salesforce Marketing Cloud ](https://docs.google.com/document/d/1HgVFumFAqz3yVIDk9XMr3QdJu9MnMYAW87Um05sJoXw/edit?usp=sharing)
 ## Summary
 This description outlines the reservation and communication system implemented by MOA Hotels, a global hotel company. The system involves targeted marketing, multilingual emails, timely reminders, and robust automation. This README provides an overview of the key functionalities and processes.
 
