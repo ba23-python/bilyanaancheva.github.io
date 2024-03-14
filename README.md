@@ -3,13 +3,13 @@ and I would like to welcome you to my GitHub Portfolio.
 
 ## Introduction
 
-I am a Junior Salesforce Marketing Cloud Developer (3x certified) 
-and I am currently under training to become a Full Stack Developer at Upgrade Hub, Madrid.
+I am a Salesforce Marketing Cloud Developer (3x Salesforce certified) 
+and I am currently freelancing as Full Stack Developer.
 With advanced level of English, I will bring to your company invaluable soft skills because I've worked in Agile and Scrum environments and come from the B2B corporate world.
 ## Watch me speaking in English on the [Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
 
 I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript,
-while working as a Junior SFMC Developer at the Salesforce partner - Cloud Coachers, Madrid.
+while working as Salesforce Marketing Cloud Developer at the Salesforce partner - Cloud Coachers, Madrid.
 
 ### If you are interested to work with me, 
 the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
