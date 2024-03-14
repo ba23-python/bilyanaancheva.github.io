@@ -1,4 +1,4 @@
-# I am Bilyana Ancheva, 
+# I am Bilyana Ancheva, a Full Stack Developer
 and I would like to welcome you to my GitHub Portfolio.
 
 ## Introduction
