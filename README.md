@@ -14,7 +14,7 @@ while working as a Junior SFMC Developer at the Salesforce partner - Cloud Coach
 ### If you are interested to work with me, 
 the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
-### Email address: info@bilyanaancheva.com
+Email address: info@bilyanaancheva.com
 
 ## Skills
 - Programming Languages currently upskilling in: HTML5, CSS3, Javascript  (Upgrade Hub, Madrid)
