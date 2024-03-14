@@ -6,6 +6,7 @@ and I would like to welcome you to my GitHub Portfolio.
 I am a Junior Salesforce Marketing Cloud Developer (3x certified) 
 and I am currently under training to become a Full Stack Developer at Upgrade Hub, Madrid.
 With advanced level of English, I will bring to your company invaluable soft skills because I've worked in Agile and Scrum environments and come from the B2B corporate world.
+## [Watch me speaking in English on the Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
 
 I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript,
 while working as a Junior SFMC Developer at the Salesforce partner - Cloud Coachers, Madrid.
@@ -80,8 +81,7 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 
 ## Project 4: [Responsive Forms and Registrations](https://github.com/ba23-python/UpgradeHub/tree/master/Responsive%20Forms%20and%20Registrations)
 
-## My English language skills are advanced. You can listen how I speak in English on the Youtube channel of MOA (Marketing Online Academy)
-(https://www.youtube.com/watch?v=u8LV0w3HrDI)
+## [My English language skills are advanced. You can listen how I speak in English on the Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
 
 ### If you are interested to work with me, 
 the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
