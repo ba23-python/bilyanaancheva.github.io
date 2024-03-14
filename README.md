@@ -1,14 +1,14 @@
-# I am Bilyana Ancheva, a Junior FullStack Developer 
+# I am Bilyana Ancheva, 
 and I would like to welcome you to my GitHub Portfolio.
 
 ## Introduction
 
 I am a Junior Salesforce Marketing Cloud Developer (3x certified) 
-and Junior Full Stack Developer with advanced level of English.
-I will bring to your company invaluable soft skills because I've worked in Agile and Scrum environments and come from the B2B corporate world.
+and I am currently under training to become a Full Stack Developer at Upgrade Hub, Madrid.
+With advanced level of English, I will bring to your company invaluable soft skills because I've worked in Agile and Scrum environments and come from the B2B corporate world.
 
 I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript,
-part of my job as Junior SFMC Developer at the Salesforce partner-Cloud Coachers.
+while working as a Junior SFMC Developer at the Salesforce partner - Cloud Coachers, Madrid.
 
 ### If you are interested to work with me, 
 the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
@@ -16,15 +16,20 @@ the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-a
 ### Email address: info@bilyanaancheva.com
 
 ## Skills
-- Programming Languages: HTML5, CSS3, Javascript, Python (Upgrade Hub, Madrid)
+- Programming Languages currently upskilling in: HTML5, CSS3, Javascript  (Upgrade Hub, Madrid)
+  
+- Python Programming series: 
+- [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/AYQUHSPKNFQK) Coursera Certificate
+- [Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/856BECU7X4KB) - Coursera certificate
+- [Google Automation with Python](https://www.coursera.org/account/accomplishments/professional-cert/ZXMM25G67E73)
 - Preprocessors: SCSS
-- Version Control & Management: Git and GitHub (certificate Coursera)
-- Frameworks and libraries: Bootstrap
-- Front-End DeveloperFrameworks: React, Angular
+- Version Control & Management: [Git and Github](https://www.coursera.org/account/accomplishments/verify/FCTQU2NWDZKY) - Coursera certificate
+- Frameworks and libraries currently upskilling in: Bootstrap
+- Front-End DeveloperFrameworks currently upskilling in: React, Angular
 - IDE/Code Editors: Visual Studio Code, Codepen, Repl.it
 - API Testing Tools: Postman
 - Containerization Systems: Docker
-- Salesforce Markerting Cloud programming languages: AMPSCRIPT, SSJS, SQL quieries, GTL
+- Salesforce Marketing Cloud programming languages: AMPSCRIPT, SSJS, SQL Quieries, GTL
 
 ## Projects
 ## Salesforce Marketing Cloud
@@ -46,7 +51,7 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 ## Unconfirmed Reservations Handling
 - Tasks or emails are triggered based on the time remaining for unconfirmed reservations.
 - If less than one month remains, a Salesforce CRM task is created.
-- If more than one month remains, a periodic email with a cloudpage link for date modification is sent until the reservation is confirmed.
+- If more than one month remains, a periodic email with a Cloudpage link for date modification is sent until the reservation is confirmed.
 - Less than 48 hours before the stay, a reminder email is sent with additional experiences.
 
 ## Email Timing and Cancellation Checks
