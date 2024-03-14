@@ -12,7 +12,7 @@ I started coding after I entered Salesforce and discovered my passion for Fronte
 while working as a Junior SFMC Developer at the Salesforce partner - Cloud Coachers, Madrid.
 
 ### If you are interested to work with me, 
-the best way is to contact me on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
+the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
 ### Email address: info@bilyanaancheva.com
 
