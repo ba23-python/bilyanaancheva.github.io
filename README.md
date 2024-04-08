@@ -1,20 +1,18 @@
-# I am Bilyana Ancheva, a Full Stack Developer
+# I am Bilyana Ancheva, 
 and I would like to welcome you to my GitHub Portfolio.
 
 ## Introduction
 
-I am a Salesforce Marketing Cloud Developer (3x Salesforce certified) 
-and I am currently freelancing as Full Stack Developer.
+I am a Salesforce Marketing Cloud Email Specialist (3x Salesforce certified) with keen interest in HTML-CSS-Javascript email and web developement.
+
 With advanced level of English, I will bring to your company invaluable soft skills because I've worked in Agile and Scrum environments and come from the B2B corporate world.
 ## Watch me speaking in English on the [Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
 
-I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript,
-while working as Salesforce Marketing Cloud Developer at the Salesforce partner - Cloud Coachers, Madrid.
+I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript.
 
 ### If you are interested to work with me, 
 the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
-Email address: info@bilyanaancheva.com
 
 ## Skills
 - Programming Languages currently upskilling in: HTML5, CSS3, Javascript  (Upgrade Hub, Madrid)
@@ -86,6 +84,6 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 ### If you are interested to work with me, 
 the most reliable option is to contact me through Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
-Email address: info@bilyanaancheva.com
+Email address: bela.energetica@gmail.com
 
 
