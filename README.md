@@ -3,12 +3,11 @@ and I would like to welcome you to my GitHub Portfolio.
 
 ## Introduction
 
-I am a Salesforce Marketing Cloud Email Specialist (3x Salesforce certified) with keen interest in HTML-CSS-Javascript email and web developement.
+I am a Salesforce Marketing Cloud Engagement Email Specialist (4x Salesforce certified) and Full-Stack Developer (Full-stack Developer hands-on) 
 
 With advanced level of English, I will bring to your company invaluable soft skills because I've worked in Agile and Scrum environments and come from the B2B corporate world.
-## Watch me speaking in English on the [Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
 
-I started coding after I entered Salesforce and discovered my passion for Frontend and Email Development with HTML, CSS, Javascript.
+I combine Frontend and Backend coding skills(HTML, CSS, Javascript, NodeJS, Angular) and Salesforce Marketing Cloud Engagement expertise 
 
 ### If you are interested to work with me, 
 the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
@@ -31,10 +30,10 @@ the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-an
 - Salesforce Marketing Cloud programming languages: AMPSCRIPT, SSJS, SQL Quieries, GTL
 
 ## Projects
-## Salesforce Marketing Cloud
-1. PDF attached [Hotel chain room reservation email marketing journey with Salesforce Marketing Cloud ](https://docs.google.com/document/d/1HgVFumFAqz3yVIDk9XMr3QdJu9MnMYAW87Um05sJoXw/edit?usp=sharing)
-## Summary
-This description outlines the reservation and communication system implemented by MOA Hotels, a global hotel company. The system involves targeted marketing, multilingual emails, timely reminders, and robust automation. This README provides an overview of the key functionalities and processes.
+## Salesforce Marketing Cloud Engagement - Automated Hotel Room Reservation email marketing Project
+1. PDF attached [Hotel chain room reservation email marketing journey with Salesforce Marketing Cloud ](https://docs.google.com/document/d/1y4pysHwzjPEv5XMY_TQUNku78HB7yFqIgRu2IDwqAWU/edit?usp=sharing)
+## Project Scope
+This project document describes the reservation and communication system implemented by MOA Hotels, a global hotel company. The system involves targeted email marketing, multilingual emails, timely reminders, and robust automation implemented on Salesforce Marketing Cloud Engagement platform. It provides an overview of the key functionalities and processes.
 
 ## Areas Implied
 Rest API usage and Testing with Postman, Journey Builder, Relational data model, SQL, AMPSCRIPT Lookup, Date and Currency transformations, Cloudpage, SQL.
@@ -85,5 +84,6 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 the most reliable option is to contact me through Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
 Email address: bela.energetica@gmail.com
+
 
 
