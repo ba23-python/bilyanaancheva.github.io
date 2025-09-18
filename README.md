@@ -14,7 +14,7 @@ the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-an
 
 
 ## Skills
-- Programming Languages currently upskilling in: HTML5, CSS3, Javascript  (Upgrade Hub, Madrid)
+- Programming Languages: HTML5, CSS3, Javascript, Java, NodeJS, Angular
   
 - Python Programming series: 
 - [Crash Course on Python](https://www.coursera.org/account/accomplishments/verify/AYQUHSPKNFQK) Coursera Certificate
@@ -84,6 +84,7 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 the most reliable option is to contact me through Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
 Email address: bela.energetica@gmail.com
+
 
 
 
