@@ -63,10 +63,13 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 
 ## Reservation Statistics Automation
 - An automation is implemented to load total reservations, valid reservations, and canceled reservations into a table for daily consultation by the marketing team.
+## Project 2: Insurance Industry Use Case
+[Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization](https://github.com/ba23-python/SQL-Assignment/blob/main/Portfolio-EN-insurance%20project%20-Bilyana-Ancheva%20(2).pdf)
 
+## Project 3: Salesforce Sales and Service Cloud
+[Vet Clinic Salesforce Sales and Service Cloud Business Analysis Requierements Gathering](https://docs.google.com/document/d/15Rx7TJdEe9XHjmrOKyJPMjWXtwwsWQ0qIp5GDzUjlWM/edit?usp=sharing)
 
-## Project 2: Salesforce Sales and Service Cloud
-[Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization](https://docs.google.com/presentation/d/16vo-xnHKIr2Vf2mC2w89NpbKoNRy_-WgGkfz3WpPHGc/edit?usp=sharing)
+[Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization](https://docs.google.com/document/d/15Rx7TJdEe9XHjmrOKyJPMjWXtwwsWQ0qIp5GDzUjlWM/edit?usp=sharing)
 
 ## FrontEnd Development portfolio
 ## Project 3: [My Personal Responsive Frontend landing page development(mock project)](https://github.com/ba23-python/bilyanaancheva.github.io)
@@ -85,6 +88,7 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 the most reliable option is to contact me through Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
 Email address: bela.energetica@gmail.com
+
 
 
 
