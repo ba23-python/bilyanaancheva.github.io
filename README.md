@@ -21,10 +21,11 @@ the best bet is to hit me up on Linkedin: https://www.linkedin.com/in/bilyana-an
 - [Python to Interact with the Operating System](https://www.coursera.org/account/accomplishments/verify/856BECU7X4KB) - Coursera certificate
 - [Google Automation with Python](https://www.coursera.org/account/accomplishments/professional-cert/ZXMM25G67E73)
 - Preprocessors: SCSS
+- CI/CD, GitHub Actions
 - Version Control & Management: [Git and Github](https://www.coursera.org/account/accomplishments/verify/FCTQU2NWDZKY) - Coursera certificate
-- Frameworks and libraries currently upskilling in: Bootstrap
-- Front-End DeveloperFrameworks currently upskilling in: React, Angular
-- IDE/Code Editors: Visual Studio Code, Codepen, Repl.it
+- Frameworks and libraries: Bootstrap
+- Front-End Developer Frameworks: React, Angular
+- IDE/Code Editors: Visual Studio Code, IntelliJ, Codepen, Repl.it
 - API Testing Tools: Postman
 - Containerization Systems: Docker
 - Salesforce Marketing Cloud programming languages: AMPSCRIPT, SSJS, SQL Quieries, GTL
@@ -84,6 +85,7 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 the most reliable option is to contact me through Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
 Email address: bela.energetica@gmail.com
+
 
 
 
