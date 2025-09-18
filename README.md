@@ -72,7 +72,7 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 [Vet Clinic Salesforce Sales and Service Cloud setting up and custom objects personalization](https://docs.google.com/document/d/15Rx7TJdEe9XHjmrOKyJPMjWXtwwsWQ0qIp5GDzUjlWM/edit?usp=sharing)
 
 ## FrontEnd Development portfolio
-## Project 3: [My Personal Responsive Frontend landing page development(mock project)](https://github.com/ba23-python/bilyanaancheva.github.io)
+## Project 3: [My Personal Responsive Frontend landing page development](https://github.com/ba23-python/bilyanaancheva.github.io)
    
 ![My Landing page](Assets/My-Landing-screenshot1.PNG)
 ![My Landing page](Assets/My-Landing-screenshot2.PNG)
@@ -82,12 +82,12 @@ Rest API usage and Testing with Postman, Journey Builder, Relational data model,
 
 ## Project 4: [Responsive Forms and Registrations](https://github.com/ba23-python/UpgradeHub/tree/master/Responsive%20Forms%20and%20Registrations)
 
-## I am fluent in English. Watch me speaking in English on the [Youtube channel of MOA (Marketing Online Academy)](https://www.youtube.com/watch?v=u8LV0w3HrDI)
 
 ### If you are interested to work with me, 
 the most reliable option is to contact me through Linkedin: https://www.linkedin.com/in/bilyana-ancheva/
 
 Email address: bela.energetica@gmail.com
+
 
 
 
